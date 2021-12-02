@@ -62,7 +62,10 @@ body {
 	max-width: 1320px;
 	margin: 0 auto;
 }
-
+.about-me-container {
+	max-width: 400px;
+}
+	
 .section.js-challenges {
 	background-color: #edf5e1;
 	display: flex;
